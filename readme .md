@@ -16,8 +16,6 @@ This is an agent play based on minimax plus alpha-beta pruning with improved eva
 This file records the movements generate during the competition of a white agent playing on minimax with a black agent playing on improved_alpha-beta pruning.
 ### log(improvedWhite VS basicBlack).txt
 This file records the movements generate during the competition of a white agent playing on improved_alpha-beta pruning with a black agent playing on minimax.
-### ECSE526-Assignment1-Report
-This report details the mechanism of the whole program and answers the question put forward in the Part I and Part II, with the graphs illustrating the average time, states explored under different depth cut off and different strategies. 
 
 ##Running
 Running IMPROVED_WHITE.py by entering "python3 IMPROVED_WHITE.py" in the terminal.
